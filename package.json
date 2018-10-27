@@ -1,0 +1,22 @@
+{
+  "name": "nodebb-plugin-override-login-csf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cncsf/nodebb-plugin-override-login-csf.git"
+  },
+  "author": "cccc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cncsf/nodebb-plugin-override-login-csf/issues"
+  },
+  "homepage": "https://github.com/cncsf/nodebb-plugin-override-login-csf#readme",
+ "nbbpm": {
+    "compatibility": "^1.7.1"
+  }
+}

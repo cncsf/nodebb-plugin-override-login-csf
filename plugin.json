@@ -1,0 +1,15 @@
+{
+    "id":"nodebb-plugin-override-login-csf",
+  "url": "https://github.com/cncsf/nodebb-plugin-override-login-csf",
+  "library": "./library.js",
+  "hooks": [
+    {
+      "hook": "action:auth.overrideLogin",
+      "method": "auth"
+    },
+    {
+      "hook": "static:app.load",
+      "method": "load"
+    }
+  ]
+}
