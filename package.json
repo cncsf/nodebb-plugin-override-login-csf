@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-override-login-csf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "library.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cncsf/nodebb-plugin-override-login-csf#readme",
  "nbbpm": {
-    "compatibility": "^1.7.1"
+    "compatibility": "^1.10.0"
   }
 }
